@@ -8,7 +8,7 @@ A fullstack web application for restaurants — allowing **guests** to sign up, 
 
 ### Backend
 - **Node.js** + **Express**
-- **PostgreSQL** (via `pg` or `mssql`)
+- **PostgreSQL** (via `pg`)
 - **JWT** for authentication
 - **bcrypt** for password hashing
 
