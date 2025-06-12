@@ -46,7 +46,7 @@ All CRUD operations on menu items (POST, GET, PUT, DELETE to /menu) are also pro
 
 ## Frontend Logic
 
-- `frontend/api.js`: Axios instance includes the token from localStorage automatically
+- `frontend/api/index.js`: Axios instance includes the token from sessionStorage automatically
 - Request interceptor: adds `Authorization` header
 - Response interceptor: logs out on 401/403 and redirects to `/login`
 
