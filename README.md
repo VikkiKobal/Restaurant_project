@@ -2,6 +2,8 @@
 
 A fullstack web application for restaurants — allowing **guests** to sign up, browse the menu,  while **admins** manage users, menu items, and more.
 
+Status: Project in active development
+
 ---
 
 ## Tech Stack
