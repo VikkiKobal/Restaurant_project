@@ -1,6 +1,7 @@
 # Restaurant Web App
 
 A fullstack web application for restaurants — allowing **guests** to sign up, browse the menu,  while **admins** manage users, menu items, and more.
+Demo: https://drive.google.com/file/d/1Rlt6rhsBKKYw8VVAgi5kU9rNCZK2iZwU/view?usp=sharing
 
 Status: Project in active development
 
